@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(appium:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(powershell:*)",
+      "Bash(ANDROID_HOME=\"C:/Users/ave/AppData/Local/Android/Sdk\" node:*)"
+    ]
+  }
+}
