@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "test:criar-conta": "node criarConta.test.js"
+    "test": "node tests/criarConta.e2e.test.js",
+    "test:e2e": "node tests/criarConta.e2e.test.js",
+    "test:criar-conta": "node tests/criarConta.e2e.test.js",
+    "inspect:signup": "node inspecionar.js"
   },
   "keywords": [],
   "author": "",
