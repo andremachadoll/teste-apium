@@ -1,6 +1,6 @@
 # AppiumJS - E2E Cadastro (Nextar)
 
-Automação E2E do fluxo de criar conta no app Android da Nextar com `WebdriverIO + Appium`.
+Automação E2E do fluxo de criar conta no Nex: PDV e gestão de vendas `WebdriverIO + Appium`.
 
 ## O que este projeto cobre
 
